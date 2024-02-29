@@ -1,0 +1,6 @@
+public class PrimeiraClasse {
+
+public static void main(Strign[] args){
+        system.out.println("Hello java Word);
+}
+}
